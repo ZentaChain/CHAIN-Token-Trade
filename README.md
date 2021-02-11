@@ -6,6 +6,7 @@ This contract is only used to enable the token claim at the Zentanetwork.
 - Claim function for $CHAIN.
 - No replacement possible.
 - Will not be listed.
+- Frozen.
 
 ### License
 
