@@ -4,7 +4,7 @@ $CHAIN-contract is only used to enable the claims of $CHAINs tokens. Claim funct
 
 - Non Tradeable Contract.
 - Non transferable $CHAINs token.
-- Claim function for $CHAINs token on main-net and test-networks.
+- Claim function for $CHAINs token on Main-net and test-networks.
 - Frozen $CHAINs token.
 
 ## License
