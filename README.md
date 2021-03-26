@@ -1,8 +1,8 @@
 # $CHAIN-Token Contract
 
-$CHAIN-contract is only used to enable the claims of $CHAINs tokens. Claim function is only possible for people and companies who have invested in the early stages for the Zentanetwork.
+$CHAIN-contract is only used to enable the claims of $CHAINs tokens. Claim function is only possible for people and companies who have traded in the early stages of the Zentanetwork.
 
-- Non Tradeable Contract.
+- Tradeable Contract.
 - Non transferable $CHAINs token.
 - Claim function for $CHAINs token on Main-net and test-networks.
 - Frozen $CHAINs token.
