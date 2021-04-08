@@ -4,7 +4,7 @@ $CHAIN-contract is only used to enable the claims of $CHAINs. Claim function is 
 
 - Tradeable Contract.
 - Non transferable $CHAINs token.
-- Claim function for $CHAINs token on Main-net and test-networks.
+- Claim function for $CHAINs token on Mainnet and test-networks.
 - Frozen $CHAINs token.
 
 More details about Zentachain($CHAIN) [here](https://docs.zentachain.io/economics)
