@@ -8,7 +8,7 @@ $CHAIN-contract is only used to enable the claims of $CHAINs. Claim function is 
 - Frozen $CHAINs token.
 
 ## Economics of Zentachain ($CHAIN) 
-More details about Economics can be found on [Doc-Hub](https://docs.zentachain.io/economics)
+More details about Tokeneconomics can be found on [Doc-Hub](https://docs.zentachain.io/economics)
 
 ## License
 
